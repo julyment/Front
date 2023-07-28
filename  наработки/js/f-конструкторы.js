@@ -26,4 +26,4 @@ function B() {
 }
 
 console.log(new A() === new B()); 
-/* Return this заменяется на 
+/* Return this заменяется на объект написанный через return вручную. Только другой объект может заменить дефолтный this в return'е!!!*/

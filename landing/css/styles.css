@@ -1,0 +1,18 @@
+.container {
+  max-width: 2956px;
+  max-height: 1937.69px;
+}
+.nav {
+  max-width: 2956px;
+  max-height: 164.22px;
+  margin-left: 279.18px;
+  margin-right: 279.18px;
+}
+/* .logo {
+  padding-right: 84.446px;
+} */
+.menu {
+  border: 3px black;
+  margin-left: 82px;
+  font-family: "Inter", sans-serif;
+}
