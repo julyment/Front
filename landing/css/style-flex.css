@@ -1,0 +1,23 @@
+.container {
+  /* max-width: 2956px;
+  height: 100%; */
+  margin: 20px;
+}
+
+.nav {
+  max-width: 2956px;
+  display: flex;
+
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: "Inter", sans-serif;
+  align-items: center;
+  /* margin-right: ; */
+}
+.content {
+}
+.footer {
+}
+
+.menu {
+}

@@ -1,0 +1,30 @@
+.container {
+    max-width: 2956px;
+    /* max-height: 1937.69px;   Никогда не используй строгое значение в крупных контейнерах, ты не можешь будут ли добавлены новые блоки */
+    height: 100%;
+
+  }
+  .nav {
+    /* max-width: 2956px;
+    max-height: 164.22px;
+    margin-left: 279.18px;
+    margin-right: 279.18px; */
+
+    display: flex;
+    align-items: center;  /* разносит елементы по У  */
+    justify-content: space-between; /* разносит елементы по Х  */
+
+   
+
+  }
+  .logo {
+    width: 50px;
+    height: 50px;
+    background: red;
+  }
+  .menu {
+    border: 3px solid black;
+    padding: 10px;   /*   Если используешь border скорее всего потребуется задать внутренний отступ чтоб рамка не падала на текст  */
+    /* margin-left: 82px; */
+    font-family: "Inter", sans-serif;
+  }

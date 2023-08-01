@@ -1,6 +1,6 @@
 .container {
   max-width: 2956px;
-  max-height: 1937.69px;
+  margin: 0 auto;
 }
 .nav {
   max-width: 2956px;
@@ -15,4 +15,5 @@
   border: 3px black;
   margin-left: 82px;
   font-family: "Inter", sans-serif;
+  padding-bottom: 40px;
 }
